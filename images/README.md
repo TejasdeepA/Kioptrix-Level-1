@@ -1,1 +1,0 @@
-# Kioptrix-Level-1
