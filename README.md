@@ -1,4 +1,4 @@
-# 🛡️ Kioptrix Level 1: Penetration Test Report
+# Kioptrix Level 1: Penetration Test Report
 
 **Date:** February 10, 2026
 **Author:** Tejasdeep Singh Anand
