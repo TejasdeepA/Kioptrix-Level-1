@@ -122,8 +122,8 @@ The `/etc/shadow` file was exfiltrated to test password complexity.
 | User Account | Hash Type | Status | Analysis |
 | :--- | :--- | :--- | :--- |
 | **root** | MD5 | **Protected** | Password withstood dictionary attack (RockYou.txt). |
-| **john** | MD5 | **Compromised** | Weak credentials identified. |
-| **harold** | MD5 | **Compromised** | Weak credentials identified. |
+| **john** | MD5 | **Protected** | Password withstood dictionary attack (RockYou.txt). |
+| **harold** | MD5 | **Protected** | Password withstood dictionary attack (RockYou.txt). |
 
 ---
 
